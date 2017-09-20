@@ -1,0 +1,90 @@
+# Snippets - Imports
+'.source.js, .source.ts':
+
+  # Entity Creation
+  'Import FactoryGuy.make':
+    'prefix': 'imMake'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { make } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.makeNew':
+    'prefix': 'imMakeNew'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { makeNew } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.makeList':
+    'prefix': 'imMakeList'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { makeList } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.build':
+    'prefix': 'imBuild'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { build } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.buildList':
+    'prefix': 'imBuildList'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { buildList } from \'ember-data-factory-guy\';'
+
+  # Mocking
+  'Import FactoryGuy.mockFindRecord':
+    'prefix': 'imMockFindRecord'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { mockFindRecord } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.mockFindAll':
+    'prefix': 'imMockFindAll'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { mockFindAll } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.mockReload':
+    'prefix': 'imMockReload'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { mockReload } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.mockQuery':
+    'prefix': 'imMockQuery'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { mockQuery } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.mockQueryRecord':
+    'prefix': 'imMockQueryRecord'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { mockQueryRecord } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.mockCreate':
+    'prefix': 'imMockCreate'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { mockCreate } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.mockUpdate':
+    'prefix': 'imMockUpdate'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { mockUpdate } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.mockDelete':
+    'prefix': 'imMockDelete'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { mockDelete } from \'ember-data-factory-guy\';'
+
+  # Miscellaneous
+  'Import FactoryGuy.mockSetup':
+    'prefix': 'imMockSetup'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { mockSetup } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.mockTeardown':
+    'prefix': 'imMockTeardown'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { mockTeardown } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.manualSetup':
+    'prefix': 'imManualSetup'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { manualSetup } from \'ember-data-factory-guy\';'
+
+  'Import FactoryGuy.Scenario':
+    'prefix': 'imScenario'
+    'leftLabel': 'FactoryGuy'
+    'body': 'import { Scenario } from \'ember-data-factory-guy\';'

@@ -1,0 +1,16 @@
+# Snippets - Integration Tests
+'.source.js, .source.ts':
+
+  'FactoryGuy.manualSetup':
+    'prefix': 'manualSetup'
+    'leftLabel': 'FactoryGuy'
+    'body': 'manualSetup(this.container);'
+
+  'FactoryGuy.beforeEach':
+    'prefix': 'beforeEach'
+    'leftLabel': 'FactoryGuy'
+    'body': """
+    beforeEach() {
+    \tmanualSetup(this.container);
+    }
+    """

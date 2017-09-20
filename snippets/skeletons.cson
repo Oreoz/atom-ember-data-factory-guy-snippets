@@ -1,0 +1,15 @@
+# Snippets - Skeletons
+'.source.js, .source.ts':
+
+  'FactoryGuy Scenario Skeleton':
+    'prefix': 'scenario'
+    'leftLabel': 'FactoryGuy'
+    'body': """
+    import { Scenario } from 'ember-data-factory-guy';
+
+    export default class extends Scenario {
+    \trun() {
+    \t\t$1
+    \t}
+    }
+    """

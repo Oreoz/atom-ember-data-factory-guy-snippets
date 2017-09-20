@@ -1,0 +1,27 @@
+# Snippets - Entity Creation
+'.source.js, .source.ts':
+
+  'FactoryGuy.make':
+    'prefix': 'make'
+    'leftLabel': 'FactoryGuy'
+    'body': 'let $1 = make(\'$1\'${2:, \'${3:trait}\'});'
+
+  'FactoryGuy.makeNew':
+    'prefix': 'makeNew'
+    'leftLabel': 'FactoryGuy'
+    'body': 'let $1 = makeNew(\'$1\'${2:, \'${3:trait}\'});'
+
+  'FactoryGuy.makeList':
+    'prefix': 'makeList'
+    'leftLabel': 'FactoryGuy'
+    'body': 'let $1s = makeList(\'$1\', ${2:3}${3:, \'${4:trait}\'});'
+
+  'FactoryGuy.build':
+    'prefix': 'build'
+    'leftLabel': 'FactoryGuy'
+    'body': 'let $1 = build(\'$1\'${2:, \'${3:trait}\'});'
+
+  'FactoryGuy.buildList':
+    'prefix': 'buildList'
+    'leftLabel': 'FactoryGuy'
+    'body': 'let $1s = buildList(\'$1\', ${2:3}${3:, \'${4:trait}\'});'
