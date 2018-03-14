@@ -1,10 +1,15 @@
-# Ember Data Factory Guy Snippets
+# Atom Ember Data Factory Guy Snippets
+
+[![Version!](https://img.shields.io/apm/v/ember-shortcuts.svg?style=flat-square)](https://atom.io/packages/atom-ember-data-factory-guy-snippets)
 
 This repository contains a simple list of all the Atom snippets I've accumulated for the much useful [ember-data-factory-guy](https://github.com/danielspaniel/ember-data-factory-guy) addon.
 
-## Usage
+## Installation
+Run the following command:
 
-In Atom simply open your `snippets.cson` file and add the snippets you wish to use!
+```sh
+apm install atom-ember-data-factory-guy-snippets
+```
 
 ## List of Snippets
 
