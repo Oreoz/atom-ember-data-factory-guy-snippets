@@ -1,0 +1,26 @@
+{
+  "name": "atom-ember-data-factory-guy-snippets",
+  "version": "0.0.0",
+  "description": "A collection of snippets for ember-data-factory-guy.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oreoz/atom-ember-data-factory-guy-snippets.git"
+  },
+  "keywords": [
+    "ember",
+    "ember.js",
+    "javascript",
+    "snippets",
+    "snippet",
+    "ember-data-factory-guy"
+  ],
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "author": "Jean-Philippe Roy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oreoz/atom-ember-data-factory-guy-snippets/issues"
+  },
+  "homepage": "https://github.com/Oreoz/atom-ember-data-factory-guy-snippets#readme"
+}
