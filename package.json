@@ -4,7 +4,7 @@
   "description": "A collection of snippets for ember-data-factory-guy.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oreoz/atom-ember-data-factory-guy-snippets.git"
+    "url": "https://github.com/Oreoz/atom-ember-data-factory-guy-snippets.git"
   },
   "keywords": [
     "ember",
