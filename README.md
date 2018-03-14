@@ -1,6 +1,6 @@
 # Atom Ember Data Factory Guy Snippets
 
-[![Version!](https://img.shields.io/apm/v/ember-shortcuts.svg?style=flat-square)](https://atom.io/packages/atom-ember-data-factory-guy-snippets)
+[![Version!](https://img.shields.io/apm/v/atom-ember-data-factory-guy-snippets.svg?style=flat-square)](https://atom.io/packages/atom-ember-data-factory-guy-snippets)
 
 This repository contains a simple list of all the Atom snippets I've accumulated for the much useful [ember-data-factory-guy](https://github.com/danielspaniel/ember-data-factory-guy) addon.
 
